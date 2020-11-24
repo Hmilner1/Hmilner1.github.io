@@ -98,7 +98,7 @@ input, select, textarea {
 	}
 
 	body {
-		background: #312450;
+		background: #05386B;
 	}
 
 		body.is-preload *, body.is-preload *:before, body.is-preload *:after {
@@ -3766,10 +3766,10 @@ input, select, textarea {
 			}
 
 			#sidebar nav a:after {
-				background-image: -moz-linear-gradient(to right, #379683, #379683);
-				background-image: -webkit-linear-gradient(to right, #379683, #379683);
-				background-image: -ms-linear-gradient(to right, #379683, #379683);
-				background-image: linear-gradient(to right, #379683, #379683);
+				background-image: -moz-linear-gradient(to right, #EDF5E1, #EDF5E1);
+				background-image: -webkit-linear-gradient(to right, #EDF5E1, #EDF5E1);
+				background-image: -ms-linear-gradient(to right, #EDF5E1, #EDF5E1);
+				background-image: linear-gradient(to right, #EDF5E1, #EDF5E1);
 				-moz-transition: max-width 0.2s ease;
 				-webkit-transition: max-width 0.2s ease;
 				-ms-transition: max-width 0.2s ease;
