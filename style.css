@@ -60,7 +60,6 @@ header{
     justify-content: space-evenly;
     align-items: center;
     padding: 30px 8%;
-    width: 100%;
     background-color:  #202024;;
 }
 
@@ -216,14 +215,4 @@ img {
 }
 em{
     font-size: 17px;
-}
-
-.Video{
-   width: 460px;
-}
-
-.youtubeIframe{
-   
-    width: 100%;
-   
 }
